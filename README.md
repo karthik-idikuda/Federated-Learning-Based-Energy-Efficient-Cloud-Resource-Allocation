@@ -1,76 +1,124 @@
 <div align="center">
 
-![Header](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDgwMCAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwIiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzExMTExMSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMjIyMjIyIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciIHg9Ii0yMCUiIHk9Ii0yMCUiIHdpZHRoPSIxNDAlIiBoZWlnaHQ9IjE0MCUiPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSI2IiByZXN1bHQ9ImJsdXIiIC8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJibHVyIiBvcGVyYXRvcj0ib3ZlciIgLz4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQpIiByeD0iMTUiIHJ5PSIxNSIvPgogIAogIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjQ2IiBmaWxsPSIjMzlmZjE0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWx0ZXI9InVybCgjZ2xvdykiIHN0eWxlPSJ0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyBsZXR0ZXItc3BhY2luZzogNXB4OyI+CiAgICBGZWRlcmF0ZWQgTGVhcm5pbmcgQmFzLi4uCiAgPC90ZXh0PgogIAogIDx0ZXh0IHg9IjUwJSIgeT0iNzAlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiNmZmZmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHN0eWxlPSJsZXR0ZXItc3BhY2luZzogM3B4OyBvcGFjaXR5OiAwLjg7Ij4KICAgIFBST1BSSUVUQVJZIFBZVEhPTiBURUNITk9MT0dZCiAgPC90ZXh0PgoKICA8IS0tIEFuaW1hdGVkIGVsZW1lbnRzIC0tPgogIDxjaXJjbGUgY3g9IjE1MCIgY3k9IjE1MCIgcj0iNCIgZmlsbD0iIzM5ZmYxNCIgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4IiB2YWx1ZXM9IjE1MDsgNjUwOyAxNTAiIGR1cj0iNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogIDwvY2lyY2xlPgogIDxjaXJjbGUgY3g9IjY1MCIgY3k9IjUwIiByPSIzIiBmaWxsPSIjMzlmZjE0IiBmaWx0ZXI9InVybCgjZ2xvdykiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIHZhbHVlcz0iNjUwOyAxNTA7IDY1MCIgZHVyPSI3cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9jaXJjbGU+Cjwvc3ZnPg==)
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d2a8ff&height=220&section=header&text=Federated%20Learning%20Based%20Energ&fontSize=42&fontAlignY=35&desc=Machine%20Learning%20/%20AI&descAlignY=55&fontColor=ffffff" alt="Header"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-39ff14?style=for-the-badge&logo=probot&logoColor=black" alt="Language" />
-  <img src="https://img.shields.io/badge/Files-1797-111111?style=for-the-badge&logo=files&logoColor=39ff14" alt="Files" />
-  <img src="https://img.shields.io/badge/License-PROPRIETARY-ff0000?style=for-the-badge&logo=law&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/Type-Machine%20Learning%20%2F%20AI-d2a8ff?style=for-the-badge&logo=target&logoColor=black" alt="Type" />
+  <img src="https://img.shields.io/badge/Language-Python-d2a8ff?style=for-the-badge&logo=code&logoColor=black" alt="Language" />
+  <img src="https://img.shields.io/badge/Files-1797-161b22?style=for-the-badge&logo=files&logoColor=d2a8ff" alt="Files" />
+  <img src="https://img.shields.io/badge/License-PROPRIETARY-ff0000?style=for-the-badge&logo=shield&logoColor=white" alt="License" />
 </p>
 
-*Exclusive Neural & Cognitive Architecture developed by Karthik Idikuda.*
+  <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=d2a8ff" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=d2a8ff" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=d2a8ff" alt="Flask" />
+
 
 </div>
 
 ---
 
-## Technical Synopsis
+## Overview
 
 > Privacy-preserving resource optimization for distributed cloud networks.
 
-Welcome to **Federated Learning Based Energy Efficient Cloud Resource Allocation**. This repository contains proprietary source code engineered by Karthik Idikuda. The architecture leverages deep integration techniques tailored specifically for this project's requirements, heavily optimized for execution efficiency.
+**Federated Learning Based Energy Efficient Cloud Resource Allocation** is a proprietary machine learning / ai system engineered by **Karthik Idikuda**. It leverages FastAPI, PyTorch, Flask for its core functionality.
 
 <br/>
 
-## Internal System Engineering
-
-The internal blueprint below dynamically represents the specific components and data execution flow identified within this repository.
+## System Architecture
 
 ```mermaid
 graph TD;
-    A[Data Ingestion] -->|Raw Data| B(Preprocessing Pipeline);
-    B --> C{Model Training & Inference};
-    C -->|Predictions| D[Analytics Dashboard];
-    C -.->|Weights & Biases| E[(Model Registry)];
-    
-    classDef primary fill:#0f2027,stroke:#ff007f,stroke-width:2px,color:#fff;
-    classDef secondary fill:#203a43,stroke:#b0bec5,stroke-width:1px,color:#fff;
-    classDef database fill:#2c5364,stroke:#ff007f,stroke-width:2px,color:#fff;
-    
-    class A,D primary;
-    class B,C secondary;
-    class E database;
+    A["Data Acquisition Layer"] -->|Raw Input| B["Preprocessing Engine"];
+    B -->|Clean Data| D{"Neural Network Core"};
+    D -->|PyTorch| E["Model Training & Evaluation"];
+    E -->|Predictions| F["Output / Results"];
+    F -->|API Response| G["FastAPI Web Interface"];
+
+    classDef ml fill:#0d1117,stroke:#ff6e96,stroke-width:2px,color:#fff;
+    classDef cv fill:#161b22,stroke:#79c0ff,stroke-width:2px,color:#fff;
+    classDef web fill:#21262d,stroke:#56d364,stroke-width:2px,color:#fff;
+    class A,B ml;
+    class D,E ml;
+    class F,G web;
 ```
 
 <br/>
 
-## Proprietary Specifications
+## Project Structure
 
-| Attribute | Implementation Detail |
-|:---|:---|
-| **Core Technology** | `Python` |
-| **System Scale** | `1797 Identifiable Resource Nodes` |
-| **Execution Tier** | `High-Performance / Latency Optimized` |
-| **Intellectual Property** | `Strictly Confidential & Proprietary` |
+```
+Federated-Learning-Based-Energy-Efficient-Cloud-Resource-Allocation/
+  .DS_Store
+  Dockerfile
+  INTERACTIVE_GUIDE.md
+  LICENSE
+  PROJECT_OVERVIEW.md
+  PROJECT_STATUS.md
+  README.md
+  azure.yaml
+  complete_simulation.py
+  docker-compose.yml
+  __pycache__/
+    complete_simulation.cpython-39.pyc
+    interactive_prediction.cpython-39.pyc
+  config/
+    settings.yaml
+  docs/
+    getting-started.md
+  examples/
+    basic_example.py
+  infra/
+    .DS_Store
+    main.bicep
+    main.json
+    main.parameters.json
+  results/
+    federated_learning_results.png
+    simulation_results.json
+  scripts/
+    setup.bat
+    setup.sh
+  src/
+    .DS_Store
+    __init__.py
+    config.py
+  tests/
+  venv/
+```
 
 <br/>
 
-## ⚠️ STRICT LEGAL WARNING & LICENSE
+## Technical Specifications
 
-**PROPRIETARY AND CONFIDENTIAL**
+| Attribute | Detail |
+|:---|:---|
+| **Primary Language** | `Python` |
+| **Project Category** | `Machine Learning / AI` |
+| **Total Source Files** | `1797` |
+| **Frameworks** | `FastAPI`, `PyTorch`, `Flask` |
+| **Key Dependencies** | `torch` | `scikit-learn` | `pyyaml` | `uvicorn` | `requests` | `seaborn` | `pandas` | `pydantic` | `python-dotenv` | `fastapi` | `flask-cors` | `prometheus-client` | `matplotlib` | `numpy` | `schedule` |
+| **Intellectual Property** | `Strictly Proprietary` |
 
-This software and all associated documentation are the exclusive property of **Karthik Idikuda**. 
+<br/>
+
+## STRICT LEGAL WARNING & LICENSE
+
+> **PROPRIETARY AND CONFIDENTIAL**
+
+This software and all associated documentation are the **exclusive property of Karthik Idikuda**.
 
 - **NO PERMISSION IS GRANTED** to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software without explicit, written consent from the author.
-- **UNAUTHORIZED USE WILL RESULT IN SEVERE LEGAL ACTION.** Any individual or organization found using, referencing, or deploying this code without paying the required licensing fees will face immediate litigation, financial penalties, and potentially criminal prosecution ("jail time") where applicable by law.
+- **UNAUTHORIZED USE WILL RESULT IN SEVERE LEGAL ACTION.** Any individual or organization found using, referencing, or deploying this code without paying the required licensing fees will face immediate litigation, financial penalties, and potentially criminal prosecution where applicable by law.
 - **TO OBTAIN A LEGAL LICENSE**, you must directly contact Karthik Idikuda to negotiate payment terms.
 
-*By viewing this repository, you agree to these strict proprietary terms.*
+*By accessing this repository, you acknowledge and accept these strict proprietary terms.*
 
 ---
+
 <div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&pause=1000&color=39ff14&center=true&vCenter=true&width=535&lines=Engineered+by+Karthik+Idikuda;Strictly+Proprietary+Technology;Unauthorized+Use+Prohibited" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=18&pause=1000&color=D2A8FF&center=true&vCenter=true&width=535&lines=Engineered+by+Karthik+Idikuda;Machine+Learning+%2F+AI+Architecture;Strict+Proprietary+License" alt="Typing SVG" />
 </div>
+
+<!-- TRACKING: S0ktRmVkZXJhdGVkLUxlYXJuaW5nLUJhc2VkLUVuZXJneS1FZmZpY2llbnQtQ2xvdWQtUmVzb3VyY2UtQWxsb2NhdGlvbi1UUkFDSw== -->
